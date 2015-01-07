@@ -5,13 +5,13 @@ html, body {
   background: #faf8ef;
   color: #776e65;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
-  font-size: 18px; }
+  font-size: 0px; }
 
 body {
   margin: 80px 0; }
 
-.heading:after {
-  content: "Happy Birthday";
+.heading:after {s
+  content: "";
   display: block;
   clear: both; }
 
